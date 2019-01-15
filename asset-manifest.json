@@ -1,15 +1,15 @@
 {
-  "main.css": "/emissiontracker/static/css/main.5ff65c41.chunk.css",
-  "main.js": "/emissiontracker/static/js/main.c110475e.chunk.js",
-  "main.js.map": "/emissiontracker/static/js/main.c110475e.chunk.js.map",
+  "main.css": "/emissiontracker/static/css/main.ad115ed2.chunk.css",
+  "main.js": "/emissiontracker/static/js/main.4ace1228.chunk.js",
+  "main.js.map": "/emissiontracker/static/js/main.4ace1228.chunk.js.map",
   "static/js/1.022e95d9.chunk.js": "/emissiontracker/static/js/1.022e95d9.chunk.js",
   "static/js/1.022e95d9.chunk.js.map": "/emissiontracker/static/js/1.022e95d9.chunk.js.map",
   "runtime~main.js": "/emissiontracker/static/js/runtime~main.ad05f9cf.js",
   "runtime~main.js.map": "/emissiontracker/static/js/runtime~main.ad05f9cf.js.map",
-  "static/css/main.5ff65c41.chunk.css.map": "/emissiontracker/static/css/main.5ff65c41.chunk.css.map",
+  "static/css/main.ad115ed2.chunk.css.map": "/emissiontracker/static/css/main.ad115ed2.chunk.css.map",
   "static/media/API_SP.POP.TOTL_DS2_en_xml_v2_10224853.xml": "/emissiontracker/static/media/API_SP.POP.TOTL_DS2_en_xml_v2_10224853.fd0764c9.xml",
   "static/media/API_EN.ATM.CO2E.KT_DS2_en_xml_v2_10227343.xml": "/emissiontracker/static/media/API_EN.ATM.CO2E.KT_DS2_en_xml_v2_10227343.acf34dce.xml",
   "index.html": "/emissiontracker/index.html",
-  "precache-manifest.c0f31c1c3826d4b70822c763803086b8.js": "/emissiontracker/precache-manifest.c0f31c1c3826d4b70822c763803086b8.js",
+  "precache-manifest.9f0773cb67577627aa612859058a67b6.js": "/emissiontracker/precache-manifest.9f0773cb67577627aa612859058a67b6.js",
   "service-worker.js": "/emissiontracker/service-worker.js"
 }
