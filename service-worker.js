@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jaakkokittila/emissiontracker.git/precache-manifest.41969b6cf1b7b5d8bb8ac0e0dcd51df5.js"
+  "/emissiontracker/precache-manifest.c0f31c1c3826d4b70822c763803086b8.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jaakkokittila/emissiontracker.git/index.html", {
+workbox.routing.registerNavigationRoute("/emissiontracker/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
